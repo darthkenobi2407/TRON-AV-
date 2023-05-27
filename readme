@@ -1,1 +1,41 @@
+# Tron AV (Tron Antivirus)
+
+Tron AV is a robust and powerful antivirus software designed to provide comprehensive protection against digital threats, including malware, viruses, and cyber-attacks. With cutting-edge technology and advanced security features, Tron AV ensures the safety and security of your devices, giving you peace of mind while browsing the internet or using your computer.
+
+## Features
+
+- Real-time scanning and detection of malware and viruses.
+- Advanced threat detection algorithms for proactive defense.
+- Regular automatic updates to keep up with the latest security threats.
+- Customizable scan options to suit your needs.
+- Quarantine feature to isolate and securely manage infected files.
+- User-friendly interface with intuitive controls and informative reports.
+
+## Getting Started
+
+To get started with Tron AV, follow these steps:
+
+1. Download the latest version of Tron AV from the official website or the Releases section of this repository.
+
+2. Install Tron AV on your computer by running the installer and following the on-screen instructions.
+
+3. Launch Tron AV and activate your license (if required).
+
+4. Customize the scan settings as per your preferences.
+
+5. Initiate a scan to check for any existing malware or viruses on your system.
+
+For more detailed instructions and troubleshooting, please refer to the [User Manual](UserManual.md).
+
+## Contributing
+
+Contributions to Tron AV are welcome! If you encounter any bugs, have feature requests, or want to contribute code improvements, please follow our [Contribution Guidelines](CONTRIBUTING.md).
+
+## Support
+
+If you require any assistance or have any questions related to Tron AV, please reach out to our support team at support@tronav.com.
+
+## License
+
+Tron AV is released under the [MIT License](LICENSE).
 
